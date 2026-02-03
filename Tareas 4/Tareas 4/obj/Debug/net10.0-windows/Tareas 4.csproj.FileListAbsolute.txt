@@ -1,0 +1,16 @@
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\bin\Debug\net10.0-windows\Tareas 4.exe
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\bin\Debug\net10.0-windows\Tareas 4.deps.json
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\bin\Debug\net10.0-windows\Tareas 4.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\bin\Debug\net10.0-windows\Tareas 4.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\bin\Debug\net10.0-windows\Tareas 4.pdb
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas_4.Form1.resources
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.csproj.GenerateResource.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\refint\Tareas 4.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.pdb
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\Tareas 4.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tareas 4\Tareas 4\obj\Debug\net10.0-windows\ref\Tareas 4.dll
