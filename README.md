@@ -5,7 +5,7 @@ Este programa permite ingresar cuatro calificaciones de un estudiante para calcu
 Si el promedio es insuficiente, el sistema habilita un campo adicional para ingresar la nota del completivo. Si después de esto el promedio aún no es suficiente, se activa otro campo para ingresar la nota del extraordinario.
 Finalmente, el programa muestra el promedio obtenido y el estado final del estudiante.
 
-Imagenes 
+
 <img width="709" height="448" alt="image" src="https://github.com/user-attachments/assets/69dae0c0-be7a-49ac-b272-35932faea9ad" />
 <img width="790" height="498" alt="image" src="https://github.com/user-attachments/assets/76ea03d9-d172-47eb-87de-109b8ab0d37c" />
 
