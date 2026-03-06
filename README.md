@@ -9,6 +9,7 @@ Finalmente, el programa muestra el promedio obtenido y el estado final del estud
 <img src="https://github.com/user-attachments/assets/69dae0c0-be7a-49ac-b272-35932faea9ad" width="450">
 
 <img src="https://github.com/user-attachments/assets/76ea03d9-d172-47eb-87de-109b8ab0d37c" width="450">
+
 <img  src="https://github.com/user-attachments/assets/52d1c7b0-0be4-4236-8d03-a9074c68394b"  width="450" />
  <img src="https://github.com/user-attachments/assets/a213d5fe-0904-4f8c-b703-e1e709354a87" width="450">
   <img src="https://github.com/user-attachments/assets/79bb5654-e384-4949-a793-445fb57d5b9e" width="450">
