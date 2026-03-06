@@ -26,7 +26,7 @@ C#
 
 Visual Studio 2022
 
-Ejecución del proyecto:
+# Ejecución del proyecto:
 
 Clonar el repositorio desde GitHub
 
